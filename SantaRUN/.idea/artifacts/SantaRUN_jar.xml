@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SantaRUN:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/SantaRUN_jar</output-path>
-    <root id="archive" name="SantaRUN.jar">
-      <element id="module-output" name="SantaRUN" />
-    </root>
-  </artifact>
-</component>
