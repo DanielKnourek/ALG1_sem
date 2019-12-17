@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Xmas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Xmas_jar</output-path>
+    <root id="archive" name="Xmas.jar">
+      <element id="module-output" name="Xmas" />
+    </root>
+  </artifact>
+</component>
