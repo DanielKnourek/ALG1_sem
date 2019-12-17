@@ -6,8 +6,8 @@ import java.util.Arrays;
 public class AciiPainter {
     private final String StringUtils = new String();
     private String[] CurrentView;
-    private Point dimensions;
-    private CustomConsole console;
+    public Point dimensions;
+    public CustomConsole console;
 
     public AciiPainter(int height) {
         dimensions = new Point(height * 10, height);
